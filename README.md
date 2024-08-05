@@ -1,0 +1,2 @@
+# Static-Page
+HTML , CSS
